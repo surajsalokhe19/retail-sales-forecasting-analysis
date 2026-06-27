@@ -92,11 +92,11 @@ pip install pandas matplotlib seaborn prophet scikit-learn
 
 3. Run notebooks in order
 
-01_data_cleaning.ipynb
+data_cleaning.ipynb
 
-02_eda_analysis.ipynb
+eda_analysis.ipynb
 
-03_forecasting.ipynb
+forecasting.ipynb
 
 
 
