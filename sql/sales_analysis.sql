@@ -112,7 +112,7 @@ LIMIT 5;
 
 
 -- Year over Year Growth (Window Function)
-
+	
 SELECT 
     `Order Year`,
     ROUND(SUM(Sales), 2) AS Total_Sales,
